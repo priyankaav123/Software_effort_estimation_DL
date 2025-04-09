@@ -54,3 +54,21 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
 Log-transforming skewed targets and using domain-specific feature engineering greatly improves model performance.
 Deep neural networks with regularization are powerful tools for handling noisy effort estimation data. 
 Visualization helps interpret model reliability and areas of improvement. 
+
+
+# LICENSE 
+
+This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
+
+You are free to:
+
+- Use, study, and modify the code
+- Distribute your own versions, including for commercial use
+
+But under the following strict conditions:
+
+- If you make any modifications and **deploy** this project (even over a network), you **must release your full source code** under the same license.
+- You **must preserve** this license and provide clear attribution.
+- You **cannot make this project proprietary**, rebrand without credit, or close-source any derivative works.
+
+© 2025 Priyankaa Vijay
