@@ -22,7 +22,7 @@ After performing Exploratory Data Analysis, the following derived features were 
 ## Preprocessing 
 - 'Effort' is log-transformed to reduce skewness.
 - Features are scaled using 'RobustScaler' to reduce the influence of outliers.
-- The data is split into training and testing sets (80/20)/
+- The data is split into training and testing sets (80/20).
 
 ## Model Architecture
 A multi-layer deep neural network is build using TensorFlow/Keras: 
